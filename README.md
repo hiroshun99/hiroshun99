@@ -1,9 +1,9 @@
 # Shun Hiroi
 
-記録するWebアプリを作っています。
+痒いところに手が届くWebアプリを作っています。
 
 ## 作品
 
-- [鉄帳](https://tetsucho.vercel.app) — 前回の数字を見て、今日の重量を決める。
-- [家計簿](https://kakeibo-home.vercel.app) — 手取りから14カテゴリへ予算を配分する。
-- [題箋](https://daisen-5t5q.vercel.app) — 貼った文章に題を付けて、ファイルにする。
+- [鉄帳](https://tetsucho.vercel.app) — 筋トレノート
+- [家計簿](https://kakeibo-home.vercel.app) — 貯蓄の黄金比率を元に効率的に支出を記録。
+- [題箋](https://daisen-5t5q.vercel.app) — 貼った文章に題を付けて、ファイルにするナレッジブレイン。

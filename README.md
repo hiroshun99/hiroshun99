@@ -2,6 +2,8 @@
 
 痒いところに手が届くWebアプリを作っています。
 
+[LinkedIn](https://www.linkedin.com/in/shun-hiroi-b50008271/)
+
 ## 作品
 
 - [鉄帳](https://tetsucho.vercel.app) — 筋トレノート
